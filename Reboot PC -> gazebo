@@ -1,4 +1,4 @@
-# https://gazebosim.org/docs/latest/tutorials/
+# https://gazebosim.org/docs/latest/building_robot/
 # Når jeg starter PCen
 cd ~/gazebo_robot
 gz sim building_robot.sdf
